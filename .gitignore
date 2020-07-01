@@ -10,3 +10,4 @@ debug.log
 .vscode/
 
 package-lock.json
+tree.md
